@@ -11,4 +11,3 @@ class Funcionario(Pessoa):
 
     def __str__(self):
         return super().nome
-
